@@ -67,7 +67,7 @@ import javax.servlet.http.HttpServletResponse;
  */
 
 //Java Platform, Enterprise Edition (Java EE) JEE6
-
+//java is a great langauge
 //Servlet is a Java programming language class 
 //used to extend the capabilities of servers 
 //that host applications accessed by means of 
